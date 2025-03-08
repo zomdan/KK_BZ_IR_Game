@@ -373,6 +373,8 @@
 "Assets/Scripts/Interactable.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/PressurePad.cs"
+"Assets/Scripts/PuzzleManager.cs"
+"Assets/Scripts/RotatingStone.cs"
 "Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs"
 "Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs"
 "Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs"

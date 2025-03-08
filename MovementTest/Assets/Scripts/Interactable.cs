@@ -1,19 +1,20 @@
 using UnityEngine;
-using UnityEngine.UI; // For UI text handling
-using TMPro; // If using TextMeshPro
 
 public class Interactable : MonoBehaviour
 {
     public GameObject player;
-    public GameObject promptUI; // Assign a UI Text or TMP object
+    public GameObject promptUI;
     public float interactionRadius = 3f;
-
+    
     private bool isPlayerNearby = false;
+    private RotatingStone rotatingStone; // Reference to the RotatingStone script
 
     void Start()
     {
         if (promptUI != null)
             promptUI.SetActive(false); // Hide prompt initially
+
+        rotatingStone = GetComponent<RotatingStone>(); // Get the RotatingStone component
     }
 
     void Update()
@@ -51,7 +52,9 @@ public class Interactable : MonoBehaviour
 
     void Interact()
     {
-        Debug.Log("Interacted with " + gameObject.name);
-        // Add interaction logic here (e.g., open door, pick up item, etc.)
+        if (rotatingStone != null)
+        {
+            rotatingStone.RotateStone(); // Rotate the stone when interacting
+        }
     }
 }
