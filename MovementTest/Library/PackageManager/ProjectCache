@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Uni/KB/KK_BZ_Game/MovementTest/Packages/manifest.json
+    m_FilePath: C:/Bohdan/KK_BZ_Game/MovementTest/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638766080278962292
-    m_Hash: 455084099
+      ticks: 638810906718089298
+    m_Hash: 1890744113
   m_LockFileStatus:
-    m_FilePath: D:/Uni/KB/KK_BZ_Game/MovementTest/Packages/packages-lock.json
+    m_FilePath: C:/Bohdan/KK_BZ_Game/MovementTest/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638766080369480201
-    m_Hash: 1371281891
+      ticks: 638810906718108843
+    m_Hash: 556452217
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/Uni/KB/KK_BZ_Game/MovementTest/Packages
+m_ProjectPath: C:/Bohdan/KK_BZ_Game/MovementTest/Packages
 m_EditorVersion: 2022.3.34f1 (4886f5360533)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@2.10.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.10.0
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.cinemachine@2.10.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.cinemachine@2.10.0
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -36,7 +36,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: cinematography
-  type: assets
+  type: 
   description: "Smart camera tools for passionate creators. \n\nNew starting from
     2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
     menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
@@ -46,105 +46,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 2.1.11-beta.1
-    - 2.1.12
-    - 2.1.13
-    - 2.2.0
-    - 2.2.7
-    - 2.2.8
-    - 2.2.9
-    - 2.2.10-preview.3
-    - 2.2.10-preview.4
-    - 2.3.1
-    - 2.3.3
-    - 2.3.4
-    - 2.3.5-preview.3
-    - 2.4.0-preview.3
-    - 2.4.0-preview.4
-    - 2.4.0-preview.6
-    - 2.4.0-preview.7
-    - 2.4.0-preview.8
-    - 2.4.0-preview.9
-    - 2.4.0-preview.10
-    - 2.4.0
-    - 2.5.0
-    - 2.6.0-preview.2
-    - 2.6.0-preview.3
-    - 2.6.0-preview.5
-    - 2.6.0-preview.8
-    - 2.6.0
-    - 2.6.1-preview.6
-    - 2.6.1
-    - 2.6.2-preview.1
-    - 2.6.2
-    - 2.6.3-preview.2
-    - 2.6.3
-    - 2.6.4
-    - 2.6.5
-    - 2.6.9
-    - 2.6.10
-    - 2.6.11
-    - 2.6.14
-    - 2.6.15
-    - 2.6.17
-    - 2.7.1
-    - 2.7.2
-    - 2.7.3
-    - 2.7.4
-    - 2.7.5
-    - 2.7.8
-    - 2.7.9
-    - 2.8.0-exp.1
-    - 2.8.0-exp.2
-    - 2.8.0-pre.1
-    - 2.8.0
-    - 2.8.1
-    - 2.8.2
-    - 2.8.3
-    - 2.8.4
-    - 2.8.6
-    - 2.8.9
-    - 2.9.0-pre.1
-    - 2.9.0-pre.6
-    - 2.9.1
-    - 2.9.2
-    - 2.9.4
-    - 2.9.5
-    - 2.9.7
     - 2.10.0
-    - 2.10.1
-    - 2.10.2
-    - 2.10.3
-    - 3.0.0-pre.3
-    - 3.0.0-pre.4
-    - 3.0.0-pre.5
-    - 3.0.0-pre.6
-    - 3.0.0-pre.7
-    - 3.0.0-pre.8
-    - 3.0.0-pre.9
-    - 3.0.1
-    - 3.1.0
-    - 3.1.1
-    - 3.1.2
-    - 3.1.3
     compatible:
     - 2.10.0
-    - 2.10.1
-    - 2.10.2
-    - 2.10.3
-    - 3.0.0-pre.3
-    - 3.0.0-pre.4
-    - 3.0.0-pre.5
-    - 3.0.0-pre.6
-    - 3.0.0-pre.7
-    - 3.0.0-pre.8
-    - 3.0.0-pre.9
-    - 3.0.1
-    - 3.1.0
-    - 3.1.1
-    - 3.1.2
-    - 3.1.3
-    recommended: 2.10.3
+    recommended: 2.10.0
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -191,7 +96,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638451680320000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@2.10/manual/index.html
   hasRepository: 1
   repository:
@@ -213,7 +118,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.7.1
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.collab-proxy@2.7.1
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.collab-proxy@2.7.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -367,7 +272,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.28
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ide.rider@3.0.28
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ide.rider@3.0.28
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -428,11 +333,15 @@ m_ResolvedPackages:
     - 3.0.28
     - 3.0.31
     - 3.0.34
+    - 3.0.35
+    - 3.0.36
     compatible:
     - 3.0.28
     - 3.0.31
     - 3.0.34
-    recommended: 3.0.34
+    - 3.0.35
+    - 3.0.36
+    recommended: 3.0.36
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -473,7 +382,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -514,9 +423,11 @@ m_ResolvedPackages:
     - 2.0.20
     - 2.0.21
     - 2.0.22
+    - 2.0.23
     compatible:
     - 2.0.22
-    recommended: 2.0.22
+    - 2.0.23
+    recommended: 2.0.23
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -563,7 +474,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -632,7 +543,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.0
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.inputsystem@1.7.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.inputsystem@1.7.0
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -641,82 +552,16 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: A new input system which can be used as a more extensible and customizable
     alternative to Unity's classic input system in UnityEngine.Input.
   status: 0
   errors: []
   versions:
     all:
-    - 0.1.2-preview
-    - 0.2.0-preview
-    - 0.2.1-preview
-    - 0.2.6-preview
-    - 0.2.8-preview
-    - 0.2.10-preview
-    - 0.9.0-preview
-    - 0.9.1-preview
-    - 0.9.2-preview
-    - 0.9.3-preview
-    - 0.9.4-preview
-    - 0.9.5-preview
-    - 0.9.6-preview
-    - 1.0.0-preview
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.6
-    - 1.0.0-preview.7
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.1.0-pre.5
-    - 1.1.0-pre.6
-    - 1.1.0-preview.1
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.1
-    - 1.2.0
-    - 1.3.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4
-    - 1.5.0
-    - 1.5.1
-    - 1.6.1
-    - 1.6.3
     - 1.7.0
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.9.0
-    - 1.10.0
-    - 1.11.0
-    - 1.11.1
-    - 1.11.2
-    - 1.12.0
-    - 1.13.0
-    - 1.13.1
     compatible:
     - 1.7.0
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.9.0
-    - 1.10.0
-    - 1.11.0
-    - 1.11.1
-    - 1.11.2
-    - 1.12.0
-    - 1.13.0
-    - 1.13.1
     recommended: 1.7.0
     deprecated: []
   dependencies:
@@ -750,7 +595,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638277060810000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/index.html
   hasRepository: 1
   repository:
@@ -772,7 +617,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 14.0.11
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.render-pipelines.universal@14.0.11
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.render-pipelines.universal@14.0.11
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -915,7 +760,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1057,7 +902,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1185,6 +1030,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.9
     - 3.2.0-pre.10
     - 3.2.0-pre.11
+    - 3.2.0-pre.12
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -1203,6 +1049,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.9
     - 3.2.0-pre.10
     - 3.2.0-pre.11
+    - 3.2.0-pre.12
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
@@ -1255,7 +1102,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.6
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.timeline@1.7.6
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1349,6 +1196,7 @@ m_ResolvedPackages:
     - 1.7.4
     - 1.7.5
     - 1.7.6
+    - 1.7.7
     - 1.8.0
     - 1.8.1
     - 1.8.2
@@ -1360,6 +1208,7 @@ m_ResolvedPackages:
     - 1.8.8
     compatible:
     - 1.7.6
+    - 1.7.7
     - 1.8.0
     - 1.8.1
     - 1.8.2
@@ -1369,7 +1218,7 @@ m_ResolvedPackages:
     - 1.8.6
     - 1.8.7
     - 1.8.8
-    recommended: 1.7.6
+    recommended: 1.7.7
     deprecated: []
   dependencies:
   - name: com.unity.modules.audio
@@ -1427,7 +1276,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1500,7 +1349,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.4
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.visualscripting@1.9.4
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.visualscripting@1.9.4
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1548,10 +1397,12 @@ m_ResolvedPackages:
     - 1.9.2
     - 1.9.4
     - 1.9.5
+    - 1.9.6
     compatible:
     - 1.9.4
     - 1.9.5
-    recommended: 1.9.5
+    - 1.9.6
+    recommended: 1.9.6
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -1601,7 +1452,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1657,7 +1508,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1712,7 +1563,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1768,7 +1619,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1824,7 +1675,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1880,7 +1731,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1940,7 +1791,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2004,7 +1855,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2061,7 +1912,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2117,7 +1968,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2173,7 +2024,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2229,7 +2080,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2285,7 +2136,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2341,7 +2192,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2401,7 +2252,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2457,7 +2308,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2521,7 +2372,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2580,7 +2431,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2636,7 +2487,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2704,7 +2555,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2760,7 +2611,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2824,7 +2675,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2880,7 +2731,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2944,7 +2795,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3008,7 +2859,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3072,7 +2923,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3152,7 +3003,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3212,7 +3063,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3280,7 +3131,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3350,7 +3201,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3406,7 +3257,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3474,7 +3325,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3534,7 +3385,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3606,7 +3457,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -3683,7 +3534,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.15
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.burst@1.8.15
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.burst@1.8.15
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -3833,13 +3684,17 @@ m_ResolvedPackages:
     - 1.8.17
     - 1.8.18
     - 1.8.19
+    - 1.8.20
+    - 1.8.21
     compatible:
     - 1.8.15
     - 1.8.16
     - 1.8.17
     - 1.8.18
     - 1.8.19
-    recommended: 1.8.19
+    - 1.8.20
+    - 1.8.21
+    recommended: 1.8.21
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -3884,7 +3739,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.render-pipelines.core@14.0.11
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.render-pipelines.core@14.0.11
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4063,7 +3918,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.shadergraph@14.0.11
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.shadergraph@14.0.11
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4239,7 +4094,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.10
   source: 2
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.render-pipelines.universal-config@14.0.10
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.render-pipelines.universal-config@14.0.10
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -4310,7 +4165,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
-  resolvedPath: D:\Uni\KB\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.searcher@4.9.2
+  resolvedPath: C:\Bohdan\KK_BZ_Game\MovementTest\Library\PackageCache\com.unity.searcher@4.9.2
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
