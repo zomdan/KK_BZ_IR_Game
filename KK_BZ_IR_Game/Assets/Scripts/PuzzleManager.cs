@@ -2,14 +2,15 @@ using UnityEngine;
 
 public class PuzzleManager : MonoBehaviour
 {
-    public GameObject door;
+    public AnimationController animationTrigger;
+    public GameObject building;
     public RotatingStone[] stones; // Array of stones
 
     void Update()
     {
         if (CheckPuzzleSolved())
         {
-            OpenDoor();
+            BuildingUp();
         }
     }
 
@@ -25,9 +26,9 @@ public class PuzzleManager : MonoBehaviour
         return true;
     }
 
-    void OpenDoor()
+    void BuildingUp()
     {
-        door.transform.position += new Vector3(0, 5, 0); // Move door upwards
+        animationTrigger.TriggerAnim();
         this.enabled = false; // Disable further checks
     }
 }
