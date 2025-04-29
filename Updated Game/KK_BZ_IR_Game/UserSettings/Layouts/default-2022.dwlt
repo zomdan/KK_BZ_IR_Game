@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -146,8 +146,8 @@ MonoBehaviour:
     y: 0
     width: 324
     height: 573
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -625,7 +625,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -633,15 +633,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: H:\Uni\Unity\KK_BZ_IR_Game
+  m_LastProjectPath: C:\Users\K.Kurdziel1\Documents\GitHub\KK_BZ_IR_Game\Updated
+    Game\KK_BZ_IR_Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 52940000
-    m_LastClickedID: 37970
+    m_SelectedIDs: 12940000
+    m_LastClickedID: 37906
     m_ExpandedIDs: 00000000129400001494000016940000189400001a9400001c9400001e940000209400002294000024940000269400002894000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -814,7 +815,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0efbffff
+      m_ExpandedIDs: 08fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1245,7 +1246,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.26364794, y: -0.42345995, z: 0.13029607, w: 0.8568525}
     speed: 2
-    m_Value: {x: 0.26364774, y: -0.4234596, z: 0.13029596, w: 0.85685176}
+    m_Value: {x: -0.26364794, y: 0.42345995, z: -0.13029607, w: -0.8568525}
   m_Size:
     m_Target: 2.8802896
     speed: 2
